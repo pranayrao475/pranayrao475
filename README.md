@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranay
 - 👀 I’m interested in technology, coding and design 
-- 🌱 I’m currently learning Full-stack 
-- 💞️ I’m looking for any internships or entry level positions
+- 🌱 I’m currently learning Ruby, Rails, SQL, Javascript, and React, and I'm using them still as I continue to grow daily as a software developer.
+- 💞️ I’m looking for entry level Software developer, Web developer positions
 - 📫 How to reach me pranayrao475@gmail.com
 
 <!---
